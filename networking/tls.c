@@ -167,7 +167,6 @@
 #define TLS_DHE_RSA_WITH_AES_128_CCM                  0xC09E /*TLSv1.2 Kx=DH    Au=RSA   Enc=AESCCM(128) Mac=AEAD */
 #define TLS_DHE_RSA_WITH_AES_256_CCM                  0xC09F /*TLSv1.2 Kx=DH    Au=RSA   Enc=AESCCM(256) Mac=AEAD */
 #define TLS_RSA_WITH_AES_128_CCM_8                    0xC0A0 /*TLSv1.2 Kx=RSA   Au=RSA   Enc=AESCCM8(128) Mac=AEAD */
-#define TLS_RSA_WITH_AES_256_CCM_8                    0xC0A1 /*TLSv1.2 Kx=RSA   Au=RSA   Enc=AESCCM8(256) Mac=AEAD */
 #define TLS_DHE_RSA_WITH_AES_128_CCM_8                0xC0A2 /*TLSv1.2 Kx=DH    Au=RSA   Enc=AESCCM8(128) Mac=AEAD */
 #define TLS_DHE_RSA_WITH_AES_256_CCM_8                0xC0A3 /*TLSv1.2 Kx=DH    Au=RSA   Enc=AESCCM8(256) Mac=AEAD */
 #define TLS_ECDHE_ECDSA_WITH_AES_128_CCM              0xC0AC /*TLSv1.2 Kx=ECDH  Au=ECDSA Enc=AESCCM(128) Mac=AEAD */
